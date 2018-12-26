@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define N 5
+#define N 31
 int F(int i)
 {
  return (N-i+2)*(N-i+1)*i*i*i/2;
